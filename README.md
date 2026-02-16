@@ -1,7 +1,7 @@
 README
 ====
 
-***Title: Graphs Algorithms***
+***Title: Graph Algorithms***
 
 **Author: Necula Mihail**
 
